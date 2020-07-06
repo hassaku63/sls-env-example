@@ -24,7 +24,10 @@ MyConsumerFunction notify a message (the message-data is based received from que
 
 I'll write sometime in english...
 
-see also: [Serverless Framework & Python 環境変数の使い方](https://www.practicalcloudpython.com/2020/07/04/30/)
+see also: 
+
+- Japanese [Serverless Framework & Python 環境変数の使い方](https://www.practicalcloudpython.com/2020/07/04/30/)
+- English [Serverless Framework & Python how to use environment variables and stage management](https://www.practicalcloudpython.com/2020/07/07/42/)
 
 # Why I've published this code?
 
